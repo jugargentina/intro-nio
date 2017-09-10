@@ -6,9 +6,14 @@ Introducción a NIO.
 - Java 8
 - Maven 3.x
 
-## Run
+## Run Server
 
-    mvn compile exec:java
+    java meetup.java.EchoServer
+
+
+## Run Client
+
+    java meetup.java.EchoClient
 
 ## Links
 
